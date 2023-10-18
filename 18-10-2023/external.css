@@ -1,0 +1,28 @@
+h1{
+    background-color: blueviolet;
+    
+}
+p{
+    font-style: oblique;
+    font-size: x-large;
+}
+h2{
+    color: brown;
+}
+.appu{
+    color: aqua;
+    font-size: x-large;
+}
+#teju{
+    color: pink;
+}
+body{
+    background-color: plum
+}
+h5,h6{
+    color: rgb(127, 172, 255);
+    font-size: x-large;
+}
+#teju1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

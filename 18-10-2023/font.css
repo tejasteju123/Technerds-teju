@@ -1,0 +1,19 @@
+h1{
+    font-size: x-large;
+}
+h2{
+    font-weight: 200;
+    font-size: 19px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+h4{
+    font-variant: small-caps;
+    font-size: xx-large;
+}
+h5{
+    font-style: italic;
+    font-size: x-large;
+}
